@@ -1,6 +1,9 @@
 
 ## 📹 Kullanım Videosu
-[![Kullanım Videosu](https://img.youtube.com/vi/znwnbz7b9xQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=znwnbz7b9xQ)
+
+
+👉 **[Kullanım videosunu izlemek için buraya tıklayın! 🚀🎬](https://www.youtube.com/watch?v=znwnbz7b9xQ)**  
+
 
 
 

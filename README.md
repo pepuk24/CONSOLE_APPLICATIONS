@@ -1,7 +1,7 @@
 
 ## 📹 Kullanım Videosu
+[![Kullanım Videosu](https://img.youtube.com/vi/znwnbz7b9xQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=znwnbz7b9xQ)
 
-[![Kullanım Videosu](https://www.youtube.com/watch?v=znwnbz7b9xQ&ab_channel=pep24)](https://www.youtube.com/watch?v=znwnbz7b9xQ&ab_channel=pep24)
 
 
 

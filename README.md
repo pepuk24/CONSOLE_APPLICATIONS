@@ -1,3 +1,14 @@
+
+## 📹 Kullanım Videosu
+
+[![Kullanım Videosu](https://www.youtube.com/watch?v=znwnbz7b9xQ&ab_channel=pep24)](https://www.youtube.com/watch?v=znwnbz7b9xQ&ab_channel=pep24)
+
+
+
+
+
+
+
 # 📚 Uygulama Menüsü
 
 Bu proje, çeşitli faydalı araçları ve eğlenceli özellikleri tek bir yerde toplayan çok amaçlı bir **Python tabanlı uygulama menüsü** sunar. Menüden bir seçenek belirleyerek ilgili uygulamayı başlatabilirsiniz.

@@ -13,7 +13,7 @@ Bu proje, çeşitli faydalı araçları ve eğlenceli özellikleri tek bir yerde
 ---
 
 ### 2️⃣ **Oyunlar**
-- **Açıklama:** Basit oyunlar koleksiyonu (tahmin oyunu, zar atma vb.).
+- **Açıklama:** Basit oyunlar koleksiyonu 
 - **Özellikler:** 
   - Eğlenceli mini oyunlar.
   - Kullanıcı ile etkileşimli arayüz.Oyunlar için bir defaya mahsus Python kütüphanelerinden "Pygeme" kutuphanesini consol ekranında "pip install pygeme" olarak yazıp setup etmelisiniz...

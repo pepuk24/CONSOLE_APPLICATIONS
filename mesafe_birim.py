@@ -53,7 +53,21 @@ def mesafemenu():
         sonuc=mil*1.60934
         print(f"{mil}mil {sonuc} km eder...")
 
-    elif secim in["7","8","9","10"]:
-        print("Bu seçenekler şu an hazır değil. Sonra hazırlanacak..")
-
-
+    elif secim == "7":
+        feet = float(input("Lütfen feet giriniz\t:"))
+        sonuc = feet * 0.0003048
+        print(f"{feet} feet = {sonuc} kilometre")
+    elif secim == "8":
+        km = float(input("Lütfen km giriniz\t:"))
+        sonuc = km * 3280.84
+        print(f"{km} km = {sonuc} feet")
+    elif secim == "9":
+        yard = float(input("Lütfen yard giriniz\t:"))
+        sonuc = yard * 0.0009144
+        print(f"{yard} yard = {sonuc} kilometre")
+    elif secim == "10":
+        km = float(input("Lütfen km giriniz\t:"))
+        sonuc = km * 1093.61
+        print(f"{km} km = {sonuc} yard")
+    else:
+        print("Geçersiz seçim yaptınız. Lütfen tekrar deneyin.")

@@ -8,7 +8,8 @@
 
 
 
-
+## 🚀 **_ConsoleHub.exe_** dosyası eklendi! ⚡🔥
+> ✅ Artık çalıştırabilir ve projeyi test edebilirsin!
 
 
 
